@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Kylin Trading">
+  <title>Kylin Trading</title>
+  <circle cx="40" cy="40" r="40" fill="#0B3D3A"/>
+  <circle cx="40" cy="40" r="36.2" fill="none" stroke="#C4A35A" stroke-width="1.4"/>
+  <circle cx="40" cy="40" r="32.4" fill="none" stroke="#C4A35A" stroke-width="0.4" opacity="0.8"/>
+  <g fill="none" stroke="#C4A35A" stroke-linecap="round" stroke-linejoin="round" transform="translate(40 40) scale(0.9) translate(-40 -42)">
+    <path d="M58 28 C60 18, 58 10, 52 6" stroke-width="1.7"/>
+    <path d="M58 28 C56 20, 54 14, 52 10" stroke-width="1.05"/>
+    <path d="M48 32 C50 27, 56 26, 62 28 C68 30, 72 34, 70 38 C68 41, 62 42, 58 40 C54 38, 50 36, 48 32Z" stroke-width="1.55"/>
+    <circle cx="62" cy="33.5" r="1.15" fill="#C4A35A" stroke="none"/>
+    <path d="M54 28 C53 24, 55 22, 57 24" stroke-width="1.2"/>
+    <path d="M50 38 C46 44, 42 50, 40 56" stroke-width="1.55"/>
+    <path d="M48 34 C40 36, 30 40, 26 48 C22 56, 26 64, 34 66 C42 68, 48 64, 50 58" stroke-width="1.55"/>
+    <path d="M40 56 C36 58, 34 60, 34 64" stroke-width="1.3"/>
+    <path d="M50 58 C52 62, 54 66, 52 70" stroke-width="1.4"/>
+    <path d="M52 70 C56 70, 58 68, 58 66" stroke-width="1.15"/>
+    <path d="M34 66 C32 70, 30 73, 28 74" stroke-width="1.4"/>
+    <path d="M28 74 C32 75, 35 73, 36 70" stroke-width="1.15"/>
+    <path d="M46 30 C40 26, 34 20, 34 14" stroke-width="1.35"/>
+    <path d="M42 34 C34 32, 26 28, 24 22" stroke-width="1.25"/>
+    <path d="M38 38 C30 38, 22 36, 18 32" stroke-width="1.15"/>
+    <path d="M44 48 C46 49.2, 48 49.2, 50 48" stroke-width="0.9"/>
+    <path d="M43 51.5 C45 52.7, 47 52.7, 49 51.5" stroke-width="0.9"/>
+    <path d="M26 50 C18 48, 12 50, 10 56 C14 52, 20 52, 26 54" stroke-width="1.2"/>
+  </g>
+</svg>
